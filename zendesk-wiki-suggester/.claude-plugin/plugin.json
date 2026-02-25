@@ -1,0 +1,9 @@
+{
+  "name": "zendesk-wiki-suggester",
+  "version": "0.1.0",
+  "description": "Analyzes Zendesk tickets from the last 30 days and suggests missing Help Center articles based on ticket themes and documentation gaps.",
+  "author": {
+    "name": "Steve"
+  },
+  "keywords": ["zendesk", "support", "knowledge-base", "wiki", "help-center", "tickets"]
+}

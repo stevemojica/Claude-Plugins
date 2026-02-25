@@ -1,0 +1,11 @@
+# Environment files — never commit these
+.env
+.env.local
+.env*.local
+
+# macOS
+.DS_Store
+
+# Plugin build artifacts
+*.plugin
+/tmp/

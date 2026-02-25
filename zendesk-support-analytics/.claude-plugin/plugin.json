@@ -1,0 +1,9 @@
+{
+  "name": "zendesk-support-analytics",
+  "version": "0.1.0",
+  "description": "Generates a 30-day Zendesk support intelligence report covering FCR, time to resolution, ticket trends by infrastructure category, recurring issues, and prioritized improvement recommendations.",
+  "author": {
+    "name": "Steve"
+  },
+  "keywords": ["zendesk", "support", "analytics", "fcr", "metrics", "infrastructure", "reporting", "trends"]
+}
