@@ -1,0 +1,19 @@
+{
+    "hooks": {
+        "SessionStart": [
+            {
+                "matcher": "",
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": ".claude/install-plugins.sh"
+                    }
+                ]
+            }
+        ]
+    },
+    "env": {
+        "ZENDESK_SUBDOMAIN": "aca",
+        "ZENDESK_OAUTH_TOKEN": "0tQ8VonAm7MFAEcdhqBGo68ysSbfxiYhSvNxc5sl"
+    }
+}
