@@ -13,7 +13,6 @@
         ]
     },
     "env": {
-        "ZENDESK_SUBDOMAIN": "aca",
-        "ZENDESK_OAUTH_TOKEN": "0tQ8VonAm7MFAEcdhqBGo68ysSbfxiYhSvNxc5sl"
+        "ZENDESK_SUBDOMAIN": "aca"
     }
 }
